@@ -41,7 +41,7 @@ while True:
         # Find all smiles in the face / 얼굴에서 미소 탐색
         #for (x_, y_, w_, h_) in smiles:
 
-            # Draw a rectangle around the smile / 미소 주변 사가형
+            # Draw a rectangle around the smile / 미소 주변 사각형
             #cv2.rectangle(the_face, (x_, y_), (x_ + w_, y_ + h_), (50, 50, 200), 4)    
 
         # Label this face as smiling / 얼굴을 미소로 라벨링
